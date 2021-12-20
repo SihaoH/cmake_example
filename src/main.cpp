@@ -1,4 +1,4 @@
-#include <QApplication>
+﻿#include <QApplication>
 #include <QQmlApplicationEngine>
 
 int main(int argc, char *argv[])

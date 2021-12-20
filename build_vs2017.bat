@@ -1,8 +1,8 @@
-::´´½¨¹¹½¨Ä¿Â¼
+ï»¿::åˆ›å»ºæž„å»ºç›®å½•
 mkdir build
 cd build
 
-::¹¹½¨¹¤³Ì
+::æž„å»ºå·¥ç¨‹
 cmake .. -G "Visual Studio 15 2017 Win64"
 
 pause
